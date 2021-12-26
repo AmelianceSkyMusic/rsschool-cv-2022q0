@@ -17,26 +17,26 @@ I am a Junior/Trainee  Front End Developer=)
 
 ## EXPERIENCE  
 
-#### Junior UX/UI Designer  
 ```APR 2021 - JUL 2021 // unqa.agency (agency, Rivne)```  
+#### Junior UX/UI Designer  
 Web design, brandbook, logo
 
-#### Graphic Designer  
 ```JUN 2020 - DEC 2020 // Champion Group (advertising agency, Odessa)```  
+#### Graphic Designer  
 Logos, corporate styles, outdoor advertising, printing, souvenirs and other
 
-#### Composer, Sound Producer Graphic Designer  
 ```2016 - 2020 // envato, pond5, freelance```  
+#### Composer, Sound Producer Graphic Designer  
 Working with audio stocks
 Own projects (theme interface design, vst design, script design, digital design, motion design)  
 Freelance (digital design, graphic design)  
 
-#### Graphic Designer  
 ```DEC 2011 - JAN 2015 // Bureau MarT (advertising consulting agency, Rivne)```  
+#### Graphic Designer  
 Logos, corporate styles, outdoor advertising, printing, souvenirs and other  
-
-#### Designer  
+ 
 ```JUL 2011 - NOV 2011 // DX-Studio (printing company, Rivne)```  
+#### Designer 
 Print design  
 Plotter cutting  
 <br>
