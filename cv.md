@@ -1,7 +1,5 @@
 # Bobomuratob Radjab
-
 ##### Junior/Trainee  Front End Developer
----
 
 
 **Location:**  Rivne, remote  
@@ -9,10 +7,10 @@
 **Telegram:**  [@amelianceskymusic](http://t.me/amelianceskymusic)
 **E-mail:**  radzhab@ukr.net
 **Portfolio:** [github](https://github.com/AmelianceSkyMusic)
-<br>
+
 
 I am a Junior/Trainee  Front End Developer=)  
-<br>
+
 
 ## EXPERIENCE
 #### Junior UX/UI Designer
@@ -37,7 +35,7 @@ Logos, corporate styles, outdoor advertising, printing, souvenirs and other
 JUL 2011 - NOV 2011 // DX-Studio (printing company, Rivne)
 Print design
 Plotter cutting
-<br>
+
 
 ## SOFT SKILLS 
 - Adaptability  
@@ -48,7 +46,7 @@ Plotter cutting
 - Perfectionism  
 - Self-development  
 - Stress tolerance
- <br>
+
  
 ## HARD SKILLS
 #### Basic  
@@ -57,20 +55,21 @@ Plotter cutting
 - CSS
 - Git/GitHub
 
-#### English
-- A1
-
 #### Other
 - Figma, Photoshop, Illustrator
 - Lua, AHK
 - Yaml, Ini, Json, Xml, Walter
 - Notion, Jira, Slack
 - Studio One, Reaper
-<br>
+
 
 ## EDUCATION
- - [RS School](https://rs.school/)
- <br>
+- [RS School](https://rs.school/)
+
+
+#### English
+- A0-A1
+
 
 ## HOBBIES
 I am musician. I play musical instruments and compose music. 
