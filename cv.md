@@ -1,5 +1,6 @@
 # Bobomuratob Radjab
-### Junior/Trainee  Front End Developer
+**Junior/Trainee  Front End Developer**
+<br>
 <br>
 
 
@@ -8,6 +9,7 @@
 **Telegram:**  [@amelianceskymusic](http://t.me/amelianceskymusic)  
 **E-mail:**  radzhab@ukr.net  
 **Portfolio:** [github](https://github.com/AmelianceSkyMusic)
+<br>
 <br>
 
 
@@ -18,29 +20,29 @@ I am a Junior/Trainee  Front End Developer=)
 ## EXPERIENCE  
 
 ```APR 2021 - JUL 2021 // unqa.agency (agency, Rivne)```  
-#### Junior UX/UI Designer  
+### Junior UX/UI Designer  
 Web design, brandbook, logo  
 <br>
 
 ```JUN 2020 - DEC 2020 // Champion Group (advertising agency, Odessa)```  
-#### Graphic Designer  
+### Graphic Designer  
 Logos, corporate styles, outdoor advertising, printing, souvenirs and other  
 <br>
 
 ```2016 - 2020 // envato, pond5, freelance```  
-#### Composer, Sound Producer Graphic Designer  
+### Composer, Sound Producer Graphic Designer  
 Working with audio stocks
 Own projects (theme interface design, vst design, script design, digital design, motion design)  
 Freelance (digital design, graphic design)  
 <br>
 
 ```DEC 2011 - JAN 2015 // Bureau MarT (advertising consulting agency, Rivne)```  
-#### Graphic Designer  
+### Graphic Designer  
 Logos, corporate styles, outdoor advertising, printing, souvenirs and other  
 <br>
  
 ```JUL 2011 - NOV 2011 // DX-Studio (printing company, Rivne)```  
-#### Designer 
+### Designer 
 Print design  
 Plotter cutting  
 <br>
@@ -61,20 +63,20 @@ Plotter cutting
  
 ## HARD SKILLS  
 
-#### Basic  
-- Java Script  
+### Basic  
+- JavaScript  
 - HTML  
 - CSS  
 - Git/GitHub  
 
-#### Other  
+### Other  
 - Figma, Photoshop, Illustrator  
 - Lua, AHK  
 - Yaml, Ini, Json, Xml, Walter  
 - Notion, Jira, Slack  
 - Studio One, Reaper  
 
-#### English  
+### English  
 - A0-A1  
 <br>
 
