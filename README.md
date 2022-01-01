@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School CV
+https://AmelianceSkyMusic.github.io/rsschool-cv/
