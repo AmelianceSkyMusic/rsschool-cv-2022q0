@@ -1,2 +1,2 @@
-https://amelianceskymusic.github.io/rsschool-cv/cv
-https://amelianceskymusic.github.io/rsschool-cv/
+https://amelianceskymusic.github.io/rsschool-cv-2022q0/cv
+https://amelianceskymusic.github.io/rsschool-cv-2022q0
